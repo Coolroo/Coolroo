@@ -1,5 +1,5 @@
 - Wyatt Stagg
-- Current Computer Science student in my Fourth Year
+- Computer Science Graduate
 - Interested in creating mods for games and creating scripts for people to enjoy :)
 
 <!---
